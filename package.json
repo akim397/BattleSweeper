@@ -4,8 +4,8 @@
   "description": "This is multiplayer minesweeper!",
   "main": "index.js",
   "engines": {
-  "node": "12.17.x"
-   },
+    "node": "12.x.x"
+  },
   "scripts": {
   "start": "node server.js"
   },

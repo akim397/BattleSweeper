@@ -1,0 +1,3 @@
+runtime: nodejs12 # or another supported version
+network:
+  session_affinity: true
